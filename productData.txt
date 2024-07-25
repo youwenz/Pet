@@ -1,0 +1,5 @@
+P001,Cat Food,Salmon Fish,12.99,930
+P002,Dog Food,Chicken Broth,10.99,970
+P003,Hedgehog Food,Nuts Pack,8.99,950
+P004,Goldfish food,dried maggots,15.99,1000
+P005,Turtle food,drained sardines,12.99,1000
